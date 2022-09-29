@@ -1,0 +1,109 @@
+h2{
+  margin-bottom: -15px;
+  display: flex;
+  
+  
+}
+span{
+  margin-bottom: -25px;
+}
+
+#lol{
+  color: black;
+  display: flex;
+  flex-direction: flex;
+  flex-wrap: wrap;
+  font-size: 19px;
+  border: solid red 5px;
+  margin: -175px 0px -200px 50px;
+  height: 1900px;
+  background: white;
+
+}
+form{
+  display: flex;
+  border-radius: 5px;
+  box-shadow: 7px 7px 13px 0px rgba(50, 50, 50, 0.22);
+  padding: 30px;
+  margin: 50px 220px;
+  width: 600px;
+  background: red;
+  transition: all 0.3s ease-out;
+height:600px;
+}
+#entrar{
+  position: relative;
+  top: 15px;
+}
+#cadastrar{
+  position: relative;
+  top: -12px;
+}
+input{
+  display:flex;
+  margin: 4px;
+  width: 500px;
+  height: 30px;
+}
+#sla{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+    list-style: none;
+}
+button{
+  position: relative;
+  top: -55px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+ul li a {
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+  }
+  body{
+    text-decoration: none;
+   
+
+  }
+  header{
+    
+    background: red;
+    height: 50px;
+    margin: -22px -10px 0px -10px;
+   
+  }
+  main{
+ 
+  background-size: 130%;
+    padding: 230px;
+    display: flex;
+
+  }
+  img{
+    padding: 15px;
+  }
+  input[type= button]{
+    width: 500px;
+    height: 100px;
+    margin: -20px 200px 0px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+  }
+  .kkk{
+    display:flex;
+    margin-right: 25px;
+  }
+p{
+  padding-right:5px;
+  margin-right: 25px;
+}
